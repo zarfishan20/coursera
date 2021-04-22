@@ -1,0 +1,92 @@
+body{
+	font-size: 15px;
+	color: black;
+	box-sizing: border-box;
+	background-color: #DAD5D0;
+	font-family: 'Oxygen' , sans-serif;
+}
+
+/** Header **/
+#header-nav{
+	background-color: #E1CA04;
+	border: solid;
+	border-width: 1.5px;
+	border-color: black;
+	box-shadow: 5px 5px #887A07;
+
+}
+
+header{
+	
+}
+
+.navbar h1{
+	font-family: 'oswald' serif;
+	color: black;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	line-height: .75;
+	text-decoration: none;
+	text-transform: uppercase;
+	
+}
+
+
+h2{
+	padding-top: 15px;
+	font-weight: bold;
+}
+
+
+h3{
+
+	padding: 10px 2px 2px 2px;
+}
+
+
+button{
+height: 50px;
+width: 50px;
+}
+
+
+li {
+	text-decoration: none;
+	list-style: none;
+}
+
+
+li a:active, a:hover{
+	text-decoration: none;
+}
+
+.row{
+	margin-left: 40px;
+}
+
+
+#chicken{
+	box-shadow: 5px 10px #888888;
+	background-color: #E6A541;
+	width: 400px;
+	margin: 10px 10px 10px 10px;
+}
+
+#beef{
+	box-shadow: 5px 10px #888888;
+	background-color: #E3947C;
+	width: 400px;
+	margin: 10px 10px 10px 10px;
+
+}
+
+
+#sushi{
+	box-shadow: 5px 10px #888888;
+	background-color: #BF560E;
+	width: 400px;
+	margin: 10px 10px 10px 10px;
+}
+
+
+
