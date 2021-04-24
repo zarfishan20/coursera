@@ -61,22 +61,24 @@ li a:active, a:hover{
 }
 
 .row{
-	margin-left: 40px;
+	width: absolute;
+	padding:15px;
 }
-
 
 #chicken{
 	box-shadow: 5px 10px #888888;
 	background-color: #E6A541;
-	width: 400px;
-	margin: 10px 10px 10px 10px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+	width: relative;
 }
 
 #beef{
 	box-shadow: 5px 10px #888888;
 	background-color: #E3947C;
-	width: 400px;
-	margin: 10px 10px 10px 10px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+	width: relative;
 
 }
 
@@ -84,9 +86,9 @@ li a:active, a:hover{
 #sushi{
 	box-shadow: 5px 10px #888888;
 	background-color: #BF560E;
-	width: 400px;
-	margin: 10px 10px 10px 10px;
+	width: relative;
 }
+
 
 
 
